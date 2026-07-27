@@ -9,6 +9,7 @@ authors:
     given-names: "Jingjing"
     orcid: "https://orcid.org/0009-0002-7522-866X"
 license: MIT
+repository-code: "https://github.com/Heidizhao93/streetview-affective-rating-system"
 abstract: "A Jupyter-based interface for balanced assignment and collection of multi-respondent affective ratings of street-view images."
 keywords:
   - street-view imagery
