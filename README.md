@@ -18,7 +18,6 @@ A Jupyter Notebook interface for collecting multi-respondent affective ratings o
 - `requirements.txt`: Python dependencies
 - `CITATION.cff`: software citation metadata
 - `LICENSE`: MIT License
-- `UPLOAD_CHECKLIST.md`: checks to complete before making the repository public
 
 ## Requirements
 
