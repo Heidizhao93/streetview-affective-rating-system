@@ -1,0 +1,24 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated rating data and records
+评分结果/
+**/评分结果/
+progress_respondent_*.csv
+测试记录临时存储.xlsx
+
+# Local research data
+study_images/
+participant_data/
+results/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini

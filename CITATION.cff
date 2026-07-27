@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Street-view Affective Rating System"
+type: software
+version: 1.0.0
+date-released: 2026-07-28
+authors:
+  - family-names: "Zhao"
+    given-names: "Jingjing"
+    orcid: "https://orcid.org/0009-0002-7522-866X"
+license: MIT
+abstract: "A Jupyter-based interface for balanced assignment and collection of multi-respondent affective ratings of street-view images."
+keywords:
+  - street-view imagery
+  - affective rating
+  - environmental perception
+  - Jupyter Notebook
